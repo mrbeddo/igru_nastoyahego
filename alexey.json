@@ -1,0 +1,43 @@
+{
+    "playerName":"Алексей",
+    "playerPassword":"cPf9dsfmbH",
+    "playerCountry":"ru",
+    "sports":
+    [
+        {
+            "sportName":"Лёгкая атлетика",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Шахматы",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Шашки",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Домино",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Minecraft: Java Edition",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"SpeedCar",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"ShootRacing",
+            "points":0,
+            "level":0
+        }
+    ]
+}
