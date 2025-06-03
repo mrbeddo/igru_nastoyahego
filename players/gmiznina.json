@@ -1,0 +1,48 @@
+{
+    "playerName":"Мария",
+    "playerPassword":"ipYNZj5yfi",
+    "playerCountry":"ru",
+    "sports":
+    [
+        {
+            "sportName":"Художественная гимнастика",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Шахматы",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Шашки",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Домино",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Minecraft: Java Edition",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"SpeedCar",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"ShootRacing",
+            "points":0,
+            "level":0
+        },
+        {
+            "sportName":"Лёгкая атлетика",
+            "points":0,
+            "level":0
+        }
+    ]
+}
